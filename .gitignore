@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+*.xml.bz2
+node_modules/
